@@ -25,6 +25,6 @@ namespace KSPe.Light
 {
 	public static class Target
 	{
-		public const string AddOn = "<SOMETHING>";
+		public const string AddOn = "DOE";
 	}
 }

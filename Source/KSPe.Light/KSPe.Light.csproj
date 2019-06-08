@@ -6,7 +6,7 @@
     <ProjectGuid>{61CAD292-88E3-4168-815E-2C1CCB3680F1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>KSPe.Light</RootNamespace>
-    <AssemblyName>KSPe.Light.Something</AssemblyName>
+    <AssemblyName>KSPe.Light.DOE</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <BaseIntermediateOutputPath>..\..\obj\KSPeLight</BaseIntermediateOutputPath>
   </PropertyGroup>
